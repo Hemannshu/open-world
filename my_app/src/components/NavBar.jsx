@@ -11,7 +11,7 @@ const NavBar = ({ setTheme, checked}) => {
       setMenuClass('slide-in');
     } else {
       setMenuClass('slide-out');
-    }a
+    }
   };
   const onClickOutsideListener = () => {
     setMenuClass('slide-out');
