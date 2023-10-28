@@ -2,8 +2,14 @@
 
 
 Welcome to the Open World React App! This application is designed to provide free courses to users on a wide range of subjects. It's built using React.js and styled with Tailwind CSS to offer an intuitive and responsive user experience.
-
+# DARKMODE
+[Screenshot 2023-10-28 235758](https://github.com/Hemannshu/open-world/assets/141823832/c91761b1-a1f1-4b32-83c8-417287991711)
+# LIGHT MODE
+![Screenshot 2023-10-28 235747](https://github.com/Hemannshu/open-world/assets/141823832/b088885d-0039-4eb5-a533-ad3470c59cd9)
 ## Features
+
+
+
 
 - **Free Courses**: Access a vast library of free courses on various subjects.
 
@@ -43,6 +49,7 @@ Once the application is running, you can:
 - Browse and search for courses by subject or topic.
 - Click on a course to view details and start learning.
 - Enjoy a seamless learning experience with our user-friendly interface.
+- Supports both Dark and Light Mode
 
 ## Technologies Used
 
